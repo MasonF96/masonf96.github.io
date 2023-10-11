@@ -1,7 +1,7 @@
 /*CSS styles for QRChallenge*/
 
-* {
-	font-family: cursive;
+*:not(i) {
+	font-family: Neue Helvetica, serif;
 }
 
 h3 {
