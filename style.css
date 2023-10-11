@@ -1,4 +1,9 @@
 /*CSS styles for QRChallenge*/
+
+* {
+	font-family: cursive;
+}
+
 h3 {
 	color: black;
 }
@@ -18,8 +23,4 @@ img.round-corners {
 
 .attribution a {
 	color: hsl(228, 45%, 44%);
-}
-
-.serif {
-	font-family: cursive;
 }
