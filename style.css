@@ -2,6 +2,7 @@
 
 *:not(i) {
 	font-family: "Delivery Matrix AOE", sans-serif;
+	background-color: black;
 }
 
 h3 {
@@ -16,8 +17,6 @@ p {
 
 img.round-corners {
 	border-radius: 30px;
-	border: 15px solid black;
-	height: 700px;
 }
 
 .attribution {
