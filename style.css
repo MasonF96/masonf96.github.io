@@ -4,6 +4,10 @@
 	font-family: "Delivery Matrix AOE", sans-serif;
 }
 
+div{
+	background-color: black;
+}
+
 h3 {
 	font-size: 40px;
 	color: black;
@@ -11,7 +15,7 @@ h3 {
 
 p {
 	font-size: 20px;
-	color: grey;
+	color: rgba(128, 128, 128, 0.5);
 }
 
 img.round-corners {
@@ -21,6 +25,7 @@ img.round-corners {
 .attribution {
 	font-size: 11px;
 	text-align: center;
+	opacity: 50;
 }
 
 .attribution a {
