@@ -14,13 +14,10 @@ p {
 	color: rgba(128, 128, 128);
 }
 
-body{
-	border: 10px solid black;
-	width: 650px;
-}
-
 img.round-corners {
 	border-radius: 30px;
+	border: 15px solid black;
+	height: 700px;
 }
 
 .attribution {
