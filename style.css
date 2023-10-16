@@ -5,17 +5,17 @@
 }
 
 h3 {
-	font-size: 40px;
+	font-size: 30px;
 	color: black;
 }
 
 p {
-	font-size: 20px;
-	color: rgba(128, 128, 128, 0.5);
+	font-size: 25px;
+	color: rgba(128, 128, 128);
 }
 
-body.border{
-	border: 15px solid black
+body{
+	display: flex;
 }
 
 img.round-corners {
