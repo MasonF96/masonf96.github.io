@@ -15,7 +15,7 @@ p {
 }
 
 body{
-	display: flex;
+	border: 10px solid black;
 }
 
 img.round-corners {
