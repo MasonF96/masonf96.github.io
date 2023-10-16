@@ -14,7 +14,7 @@ p {
 	color: rgba(128, 128, 128, 0.5);
 }
 
-p.attribution{
+body.attribution{
 	border: 15px solid black
 }
 
